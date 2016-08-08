@@ -1,0 +1,27 @@
+_repo: Account-of-a-Tour-in-Normandy-Volume-2_12538
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Turner, Dawson
+    birthdate: 1775
+    deathdate: 1858
+    gutenberg_agent_id: '4412'
+    url: http://www.gutenberg.org/2009/agents/4412
+    wikipedia: http://en.wikipedia.org/wiki/Dawson_Turner
+description: Cover -- Contents.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture -- France -- Normandy'
+- !lcc 'DC'
+- !lcsh 'Normandy (France) -- Description and travel'
+- !lcsh 'Normandy (France) -- Antiquities'
+- GITenberg
+title: Account of a Tour in Normandy, Volume 2
+url: http://www.gutenberg.org/ebooks/12538
